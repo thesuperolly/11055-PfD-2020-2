@@ -1,0 +1,26 @@
+Exercise 3
+
+In VS Code
+
+In the terminal
+
+Create a new branch called "firstbranch"
+> git branch firstbranch
+
+Press the refresh button (next to the tick to commit in the source control sidebar)
+
+In the bottom left corner of the screen, the git symbol will show with the name of the current branch you are working on
+
+Select it and a list of avialable branches will be shown, select "firstbranch" to switch to your branch
+
+Now make a change to your "Hello.txt" and push it to github
+
+In GitHub
+
+go to the website to check your new changes - they will not be shown
+
+Look for the master branch pull down (mid top left of the page)
+
+Open the pull down menu and select the "firstbranch" branch
+
+You should now be able to see the changes in "Hello.txt" that you just committed
