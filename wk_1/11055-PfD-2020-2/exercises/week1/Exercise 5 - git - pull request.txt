@@ -1,0 +1,20 @@
+Exercise 5
+
+In your forked repository 
+
+create a branch (see exercise 3) if you haven't already
+
+Add a new folder and file using your student id in the "students" folder
+
+commit your changes and push them to your github forked repository
+
+On github
+
+Go to your repository and there should be a "compare and pull request" button at the top of your repository
+
+Select it and enter in a comment about what you are committing to the repository
+
+The owner of the repository (me) will be notified that there are new pull requests, I will be able to merge the changes, 
+once it is done I will be able to merge your changes and delete your branch (create new branches for each pull request)
+
+this process is the way that we will submit the code for your projects
