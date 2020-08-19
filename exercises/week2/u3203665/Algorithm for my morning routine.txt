@@ -25,4 +25,4 @@ Am I going somewhere today?
     If true > do I have work? 
         If false > dress in causal clothes
         If true > dress in uniform 
-Grab keys and go to car        
+Continue day as planned    
