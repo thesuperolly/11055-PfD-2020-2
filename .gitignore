@@ -1,0 +1,8 @@
+#Ignore these
+
+.DS_Store
+
+#Don't ignore these
+
+!.gitignore
+!students/u3075794/
