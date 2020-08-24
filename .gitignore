@@ -1,8 +1,9 @@
-#Ignore these
+# these files will be ignored
 
 .DS_Store
 
-#Don't ignore these
+
+# these files won't be ignored
 
 !.gitignore
-!students/u3075794/
+!students/s440002/test.txt
