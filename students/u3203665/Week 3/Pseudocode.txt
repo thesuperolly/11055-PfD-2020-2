@@ -56,4 +56,3 @@ ELSE
 			Dress in work uniform
 	Get in car
 Continue day as planned
-		  
