@@ -11,3 +11,7 @@
 5. pseudocode to comments
 
 6. pseudocode to js
+
+
+* to remove DS Store files from a directory tree (MacOS)
+find . -name '.DS_Store' -type f -delete
