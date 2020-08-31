@@ -3,7 +3,8 @@ DO LOOP
 Wake up
 IF 
 	Wake up on own terms= "false" THEN
-		Go back to sleep 		
+		Go back to sleep
+		EXIT LOOP 		
 WHILE
 ELSE 		
 	Check phone - any messages to reply to?
