@@ -1,10 +1,10 @@
 START 
-LOOP 
+DO WHILE 
 Wake up
 IF 
 	Wake up on own terms= "false" THEN
 		Go back to sleep 		
-END LOOP
+LOOP
 ELSE 		
 	Check phone - any messages to reply to?
 	IF 
