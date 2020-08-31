@@ -4,8 +4,8 @@ Wake up
 IF 
 	Wake up on own terms= "false" THEN
 		Go back to sleep 		
-ELSE 		
 END LOOP
+ELSE 		
 	Check phone - any messages to reply to?
 	IF 
 		Messages to reply to= "true" THEN
