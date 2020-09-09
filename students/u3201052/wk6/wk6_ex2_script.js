@@ -7,11 +7,13 @@ This file is exercise 2 focusing on family names
 
 //create
 
-var family_names = ["Leo", "Leone", "Nira", "Niro", "Shan", "Shannon"];
+var family_names = ["Leonardo", "Nira", "Shan", "Shannon"];
 
 document.write("Names in family array <br/>");
-for(let i = 0; i < family_names.length; i++;) {
+for(let i = 0; i < family_names.length; i++) {
 
+    if(family_names[i].toUpperCase().includes("A")) {
     document.write(family_names[i] + "<br/>")
+    }
 
 }
