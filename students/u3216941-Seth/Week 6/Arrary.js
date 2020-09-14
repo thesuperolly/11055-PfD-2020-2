@@ -1,9 +1,9 @@
 /*
-This Code is a example of array, showing list of name in my Family
+This Code is a example of array, showing list of names of people i know
 Name: Seth Arnould
 Date: 7/09/2020
 */
-var family = ["Lee","Takako","Yuri","Seth","Roy"]; //array list called family
+var People = ["Jakob","Zac","James","Bailey","Aiden", "Mitch", "Euan"]; //array list called people 
 
 //funtion to print list of array (Exersie 3)
 function printlist(arraylist)
@@ -15,15 +15,15 @@ function printlist(arraylist)
     }
 }
 
-printlist(family);
+printlist(People);
 //------------------------------------------------------
 
 //Exersie 2
-document.write("<br>Task 1: <br>")
-for(let i = 0; i < family.length; i++) {
+document.write("<br>Task 1: People with e<br>")
+for(let i = 0; i < People.length; i++) {
      //check if any of the string in the array contain a e and if so write down 
-    if(family[i].includes("e")){
-    document.write(family[i] + "<br>");
+    if(People[i].includes("e")){
+    document.write(People[i] + "<br>");
     }
 }
 
