@@ -1,3 +1,10 @@
+/* Create multidimensional array for storing pixel coordinates.
+
+Because JavaScript is not able to directly access the client's file system without
+the user giving permission by selecting a file, the alternative is to hold the data
+in code rather than read it from a file into an array.*/
+
+var coordinates = [
     [103,0],
     [104,0],
     [102,1],
@@ -10058,3 +10065,4 @@
     [108,199],
     [109,199],
     [110,199]
+];
