@@ -10,7 +10,7 @@
 
 const matrix = 200;
 
-//  The scale factor adjusts the size of the plot relative to the original pixel matrix
+//  The scale factor adjusts the size of the plot relative to the original pixel matrix.
 
 var scale_factor = 5;
 
@@ -25,7 +25,7 @@ function setup() {
     textSize(15);
     noStroke();
 
-/*  Create the four slider controls. Three are three for the colour channels and the fourth allows
+/*  Create the four slider controls. Three are for the colour channels and the fourth allows
     for adjustment of the maximum circle diameter fed into the randomiser.
     Set the respective widths of each slider control and position them on the left side of the
     screen.
@@ -44,7 +44,7 @@ function setup() {
     d_slider.position(6, 300);
 }
 
-/*  This is the main draw function loop which runs until our Sun collapses into intself, or until you
+/*  This is the main draw function loop which runs until our Sun collapses into itself, or until you
     close the web page ... whichever comes first.
 */
 function draw() {
