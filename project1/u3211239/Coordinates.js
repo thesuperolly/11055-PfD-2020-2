@@ -4,7 +4,7 @@
     September 2020
 */
 
-/*  Create multi-dimensional array for storing pixel coordinates.
+/*  Create pseudo-multi-dimensional array for storing pixel coordinates.
 
     Because JavaScript is not able to directly access the client's file system without
     the user giving permission by selecting a file, an alternative is to hold the data
@@ -12,7 +12,6 @@
 
     There are more than 10,000 lines; happy scrolling!
 */
-
 var coordinates = [
     [103,0],
     [104,0],
